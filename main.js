@@ -1,6 +1,6 @@
 new Vue({
   el: '#app',
   data: {
-    message: 'Hello'
+    message: 'Hello <a href="google.com"></a>'
   }
 })
